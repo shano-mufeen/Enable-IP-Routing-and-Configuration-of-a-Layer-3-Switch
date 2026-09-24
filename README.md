@@ -1,0 +1,2 @@
+# Enable-IP-Routing-and-Configuration-of-a-Layer-3-Switch
+This lab demonstrates the basic configuration of a Cisco Layer 3 switch using Cisco Packet Tracer.  A Layer 3 switch combines the functionality of a traditional Layer 2 switch with Layer 3 routing capabilities. By default, the switch operates primarily as a Layer 2 device, so IP routing must be enabled before it can perform routing functions.
